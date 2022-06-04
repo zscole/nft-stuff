@@ -1,8 +1,8 @@
 {
    "id":1,
-   "name":"Jerk",
-   "series":"Stupidest",
-   "description":"Garbage junk for morons",
-   "external_url":"https://www.crap.dev",
-   "image":"https://raw.githubusercontent.com/zscole/nft-stuff/main/idiot.jpeg"
+   "name":"foo",
+   "series":"bar",
+   "description":"Lorem ipsum",
+   "external_url":"https://www.website.com",
+   "image":"https://www.website.com/image.jpg"
 }
